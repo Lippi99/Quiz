@@ -1,0 +1,108 @@
+[
+  {
+    "question": "What is the capital of Norway?",
+
+    "options": [
+      {
+        "answer": "Washington DC",
+        "isCorrect": false
+      },
+      {
+        "answer": "Bergen",
+        "isCorrect": false
+      },
+      {
+        "answer": "Drammen",
+        "isCorrect": false
+      },
+      {
+        "answer": "Oslo",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Who is the current president of the United States Of America?",
+    "options": [
+      {
+        "answer": "Donald Trump",
+        "isCorrect": false
+      },
+      {
+        "answer": "Joe Biden",
+        "isCorrect": true
+      },
+      {
+        "answer": "Kamala Harris",
+        "isCorrect": false
+      },
+      {
+        "answer": "Warren Buffet",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "What is the bustling town in the world?",
+    "options": [
+      {
+        "answer": "Xangai",
+        "isCorrect": false
+      },
+      {
+        "answer": "Tokio",
+        "isCorrect": false
+      },
+      {
+        "answer": "New York City",
+        "isCorrect": true
+      },
+      {
+        "answer": "Buenos Aires",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Until when Brazil was a monarchy?",
+    "options": [
+      {
+        "answer": "1890",
+        "isCorrect": false
+      },
+      {
+        "answer": "1894",
+        "isCorrect": false
+      },
+      {
+        "answer": "1900",
+        "isCorrect": false
+      },
+      {
+        "answer": "1889",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Who was Tim Maia?",
+    "options": [
+      {
+        "answer": "Actor",
+        "isCorrect": false
+      },
+      {
+        "answer": "TV Host",
+        "isCorrect": false
+      },
+      {
+        "answer": "Singer",
+        "isCorrect": true
+      },
+      {
+        "answer": "Rabinne",
+        "isCorrect": false
+      }
+    ]
+  }
+]
